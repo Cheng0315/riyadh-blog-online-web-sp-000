@@ -19,10 +19,6 @@ body {
   padding-bottom: 40px;
 }
 
-.white-header {
-  color: #fff;
-}
-
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
@@ -31,6 +27,10 @@ body {
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: black;
+}
+
+.white-header {
+  color: #fff;
 }
 
 h1 {
